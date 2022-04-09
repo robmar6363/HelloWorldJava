@@ -3,6 +3,7 @@ package edu.hippie.examples;
 /**
  * 
  * Literal: Any constant value which can be assigned to the variable is called literal/constant. 
+ * Below please find examples of assigning values to variables within the code using literals.
  * 
  * @author Robert Marciniak
  *
@@ -46,7 +47,6 @@ public class Literals {
                 + " three lines of text.\n";
 
         
-     
         System.out.println(text);
 
    
